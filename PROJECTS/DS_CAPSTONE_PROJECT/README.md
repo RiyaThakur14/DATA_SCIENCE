@@ -1,1 +1,49 @@
+End-to-End Healthcare Analytics and Predictive Modeling
 
+An end-to-end Data Science project that demonstrates the complete analytics lifecycle, from web scraping and data preprocessing to machine learning and interactive Power BI dashboard development. The project analyzes healthcare data to uncover trends in patient demographics, hospital operations, and financial performance, while predicting patient discharge status using a Random Forest Classifier.
+
+Project Highlights:
+
+Collected healthcare data using Web Scraping with Requests and BeautifulSoup.
+Cleaned and preprocessed the dataset by handling missing values, duplicates, incorrect data types, and outliers.
+Performed Exploratory Data Analysis (EDA) using statistical summaries and visualizations to identify trends, patterns, and correlations.
+Built a Random Forest Classification model to predict patient discharge status and evaluated it using Accuracy, Precision, Recall, and F1-Score.
+Developed a multi-page interactive Power BI dashboard featuring KPI cards, AI Key Influencers, drill-through navigation, bookmarks, synchronized slicers, and Row-Level Security (RLS).
+Generated actionable business insights and recommendations to support healthcare decision-making.
+
+Technologies Used:
+
+Python
+Jupyter Notebook
+Pandas
+NumPy
+Requests
+BeautifulSoup
+Matplotlib
+Seaborn
+Scikit-learn
+Microsoft Power BI
+
+Machine Learning:
+
+Algorithm: Random Forest Classifier
+Target Variable: Discharge Status
+Model Accuracy: 62.16%
+
+Dashboard Features:
+
+Executive Dashboard
+Patient Demographics Analysis
+Healthcare Operations Analysis
+Financial Analytics
+Machine Learning Insights
+KPI Cards
+AI Key Influencers
+Drill-through
+Bookmarks
+Sync Slicers
+Row-Level Security (RLS)
+
+Business Outcome:
+
+This project demonstrates how healthcare data can be transformed into meaningful insights through data science and business intelligence techniques. The resulting analytics support better resource allocation, financial monitoring, patient discharge planning, and informed decision-making in healthcare organizations.
